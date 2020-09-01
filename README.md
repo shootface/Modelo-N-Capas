@@ -5,3 +5,4 @@ Ejercicio de ejemplo de la Arquitectura N capas desarrollado en JAVA
 <p>Juan Camilo Guaba </p>
 <p>Wilmer Ricardo Pachon</p>
 <h2>Implementación</h2>
+<p>Para la implementación del ejemplo </p>
